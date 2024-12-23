@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SonicSwap Inu ($SNU) - The Fastest Meme Token</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f4f8;
+            color: #333;
+        }
+        header {
+            background-color: #007BFF;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        header p {
+            margin: 10px 0 0;
+            font-size: 1.2rem;
+        }
+        .content {
+            padding: 20px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .section h2 {
+            color: #007BFF;
+        }
+        .button {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-size: 1rem;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+            color: white;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>SonicSwap Inu ($SNU)</h1>
+        <p>The Fastest Meme Token on the Sonic Chain</p>
+    </header>
+    <div class="content">
+        <div class="section">
+            <h2>What is $SNU?</h2>
+            <p>SonicSwap Inu ($SNU) is the ultra-fast token inspired by the legendary energy of Sonic and the popularity of meme tokens. Built on the Sonic chain, $SNU offers instant transactions, ultra-low fees, and an electrifying community.</p>
+        </div>
+        <div class="section">
+            <h2>Why Choose $SNU?</h2>
+            <ul>
+                <li>🚀 Lightning-fast transactions</li>
+                <li>💸 Ultra-low fees</li>
+                <li>🎨 Access to exclusive Sonic-themed NFTs</li>
+                <li>🌐 A vibrant and supportive community</li>
+            </ul>
+            <a href="#buy" class="button">Buy $SNU Now</a>
+        </div>
+        <div class="section">
+            <h2>How to Get $SNU</h2>
+            <p>Getting $SNU is easy! Follow these steps:</p>
+            <ol>
+                <li>Connect your wallet to the Sonic Chain.</li>
+                <li>Swap your tokens for $SNU on SonicSwap.</li>
+                <li>Join our community and enjoy the ride!</li>
+            </ol>
+        </div>
+        <div class="section">
+            <h2>Join the Community</h2>
+            <p>Be part of the growing $SNU family. Follow us on social media for updates, memes, and more!</p>
+            <ul>
+                <li><a href="https://twitter.com/SNUofficial" target="_blank">Twitter</a></li>
+                <li><a href="https://t.me/SNUcommunity" target="_blank">Telegram</a></li>
+                <li><a href="https://discord.gg/SNU" target="_blank">Discord</a></li>
+            </ul>
+        </div>
+    </div>
+    <footer>
+        &copy; 2024 SonicSwap Inu. All Rights Reserved.
+    </footer>
+</body>
+</html>
